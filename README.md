@@ -50,10 +50,3 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
-
-
-
-###
-<h2 align="left">Contributions</h2>
-
-![snake gif](https://raw.githubusercontent.com/Sanjay0907/Sanjay0907/output/github-snake-dark.svg)
